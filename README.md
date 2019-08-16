@@ -1,2 +1,2 @@
 # clustering-parakeet
-IPython notebooks - clustering, similarity measures
+Everything I learnt in completing the Applied AI course.
