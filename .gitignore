@@ -2,3 +2,7 @@
 .ipynb_checkpoints
 /assignment.*
 assignment*
+
+.idea
+
+.DS_Store
